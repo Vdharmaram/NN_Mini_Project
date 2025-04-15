@@ -1,2 +1,1 @@
-# DeepLabelAlignment
- 
+MINI PROJECT 
